@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tmEqtvIGE+Uq1snyKxCATzsqWq0vG+Pd3L8ACim5VAOZlO9OHwoFkpb0py1HZWHoNEV7KCrZ2ILW89b2gW5Omg==",
+  "success": true,
+  "projectFilePath": "/Users/ebdiallo/cs334/lab10/lab10.fsproj",
+  "expectedPackageFiles": [
+    "/Users/ebdiallo/.nuget/packages/fsharp.core/6.0.6/fsharp.core.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
